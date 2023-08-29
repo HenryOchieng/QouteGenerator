@@ -1,8 +1,11 @@
+body {
+    background-color: #058ddc;
+}
 div {
     text-align: center;
 }
 h1 {
-    font-size: 80px;
+    font-size: 60px;
     font-family: Impact;
 }
 button {
@@ -10,6 +13,8 @@ button {
     height: 80px;
     background-color: blueviolet;
     color: white;
+    border-radius: 8px;
+    box-shadow: 0 20px 65px rgba(87, 11, 16, 0.5);
 }
 button:hover {
     background-color: black;
